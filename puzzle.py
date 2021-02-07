@@ -1,5 +1,5 @@
 """
-Task2
+https://github.com/KhrystynaKovalchuk/puzzle.git
 """
 
 def check_uniqueness(digits: list) -> bool:
